@@ -11,3 +11,5 @@ This is the homepage for the Group Project in Social Implications of Computing f
 
 ### Posts
 [Link to Post](posts/post.md)
+
+### [Meeting Minutes](meeting_minutes.md)
