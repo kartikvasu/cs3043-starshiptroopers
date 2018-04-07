@@ -6,7 +6,7 @@ This is the homepage for the Group Project in Social Implications of Computing f
 
 **Rushdi Abualhaija**   
 **Forrest Cinelli**   
-**Wyatt Henke**  ehhenke
+**Wyatt Henke**  ehhenke  
 **Kartik Thooppal Vasu**  kthooppalvasu  
 
 ### Posts
