@@ -4,13 +4,12 @@ This is the homepage for the Group Project in Social Implications of Computing f
 
 ### Team members: 
 
-**Rushdi Abualhaija**  rmabualhaija
+**Rushdi Abualhaija**  rmabualhaija   
 **Forrest Cinelli**   
 **Wyatt Henke**  ehhenke   
 **Kartik Thooppal Vasu**  kthooppalvasu  
 
-### Posts
-[Link to Post](posts/post.md)  
+### Posts 
 [Freedom of Speech](posts/freedomofspeech.md)
 
 ### [Meeting Minutes](meeting_minutes.md)
