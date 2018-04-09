@@ -1,5 +1,5 @@
 
-#Freedom of Speech
+# Freedom of Speech
 * Federal Network - Seems to be a government controlled news network, and is widely watched. This news network puts out 
 news that makes the government look good or gets the people in the mood they want. Using this news network, 
 the government is able to convince the people that war is necessary when an asteroid wipes out Buenos Ares. The 
