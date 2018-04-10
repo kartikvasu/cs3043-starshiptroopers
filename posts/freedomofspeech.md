@@ -1,5 +1,10 @@
 
 # Freedom of Speech
+
+In the US, freedom of speech is a protected right, according to the First Amendment. It states that "Congress shall make 
+no law...abridging freedom of speech." [1] However, even in the US, there are certain restrictions, such as shouting "fire" 
+in a crowded theater, which is illegal because it endangers the lives of others. In Starship Troopers, there are few 
+instances where freedom of speech could come into play.
 * Federal Network - Seems to be a government controlled news network, and is widely watched. This news network puts out 
 news that makes the government look good or gets the people in the mood they want. Using this news network, 
 the government is able to convince the people that war is necessary when an asteroid wipes out Buenos Ares. The 
@@ -16,3 +21,6 @@ you were granted citizenship. This is because, as the movie puts it, "a citizen 
 safety of the body politic, defending it with his life."
 * Federal Communication Service - The government also seems to control the widely used Federal Communication Service, 
 though there doesn't seem to be any evidence that they use this control what people say.
+
+[1] What Does Free Speech Mean? (n.d.). Retrieved April 10, 2018, from 
+http://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does
