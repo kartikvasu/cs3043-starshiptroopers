@@ -13,5 +13,7 @@ This is the homepage for the Group Project in Social Implications of Computing f
 [List of Computing Technologies](posts/list-of-computing-technologies.md)  
 [Freedom of Speech](posts/freedomofspeech.md)  
 [Information Privacy](posts/privacy.md)  
-[Crime](posts/crime.md)
+[Crime](posts/crime.md)  
+[Intellectual Property](posts/ip.md)  
+
 ### [Meeting Minutes](meeting_minutes.md)
