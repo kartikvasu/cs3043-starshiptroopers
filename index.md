@@ -10,7 +10,7 @@ This is the homepage for the Group Project in Social Implications of Computing f
 **Kartik Thooppal Vasu**  kthooppalvasu  
 
 ### Posts 
-[Freedom of Speech](posts/freedomofspeech.md)
+[Freedom of Speech](posts/freedomofspeech.md)  
 [Information Privacy](posts/privacy.md)
 
 ### [Meeting Minutes](meeting_minutes.md)
