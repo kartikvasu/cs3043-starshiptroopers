@@ -6,7 +6,7 @@ Impossible because the speed of light is the maximum velocity that anything can 
 Existing. This was an odd technology to use to communicate across spaceships but CDs do exist.  
 * Use of tablets with styli (in high school)  
 Emerging. It was a rather forward-looking idea for when the movie was made. 
-* Video calling (Rico with parents)
+* Video calling (Rico with parents)  
 Existing. Video calling wasn’t as popular when the movie was made, but it is today.  
 * Voiceprint analyzer (Carmen)  
 Existing. Voice authentication exists now. 
