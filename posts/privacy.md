@@ -1,6 +1,6 @@
 # Information Privacy
 
-Information privacy is not a central theme in Starship Troopers, however we can infer some things about the fictional 
+Information privacy is not a central theme in Starship Troopers, however we can infer a few things about the fictional 
 society's view on privacy. The society is relatively fascistic, and the only public information source shown is the single government-
 controleld news network; even the internet never appears directly in the story. From these things it seems likely that censorship
 is rampant in the society and things like mail privacy and search warrants do not exist, though since the characters
