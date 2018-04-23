@@ -15,5 +15,5 @@ This is the homepage for the Group Project in Social Implications of Computing f
 [Information Privacy](posts/privacy.md)  
 [Crime](posts/crime.md)  
 [Intellectual Property](posts/ip.md)  
-
+[Errors Failures and Risks](posts/errorsFailuresAndRisks.md)
 ### [Meeting Minutes](meeting_minutes.md)
