@@ -16,5 +16,6 @@ This is the homepage for the Group Project in Social Implications of Computing f
 [Crime](posts/crime.md)  
 [Intellectual Property](posts/ip.md)  
 [Errors Failures and Risks](posts/errorsFailuresAndRisks.md)  
-[Professional Ethics](posts/professional-ethics.md)
+[Professional Ethics](posts/professional-ethics.md)  
+[Work](posts/work.md)
 ### [Meeting Minutes](meeting_minutes.md)
